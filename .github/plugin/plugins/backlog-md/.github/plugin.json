@@ -1,0 +1,17 @@
+{
+  "name": "backlog-md",
+  "description": "Markdown-native task manager and Kanban visualizer for Git repos with MCP integration for AI agents",
+  "version": "1.44.0",
+  "author": {
+    "name": "MrLesk",
+    "email": "noreply@github.com"
+  },
+  "license": "MIT",
+  "keywords": ["backlog", "task-manager", "kanban", "markdown", "mcp", "agentic-ai"],
+  "agents": [
+    "./agents/backlog-manager.agent.md"
+  ],
+  "skills": [
+    "./skills/backlog-md/"
+  ]
+}

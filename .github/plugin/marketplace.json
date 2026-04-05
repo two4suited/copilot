@@ -1,0 +1,19 @@
+{
+  "name": "copilot-plugins",
+  "owner": {
+    "name": "two4suited",
+    "email": "team@example.com"
+  },
+  "metadata": {
+    "description": "Copilot plugin registry",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "backlog-md",
+      "description": "Markdown-native task manager and Kanban visualizer for Git repos with MCP integration for AI agents",
+      "version": "1.44.0",
+      "source": "./plugins/backlog-md"
+    }
+  ]
+}
