@@ -1,8 +1,8 @@
 {
-  "name": "copilot-plugins",
+  "name": "two4suited-copilot-plugins",
   "owner": {
     "name": "two4suited",
-    "email": "team@example.com"
+    "email": "brian.sheridan@gmail.com"
   },
   "metadata": {
     "description": "Copilot plugin registry",
