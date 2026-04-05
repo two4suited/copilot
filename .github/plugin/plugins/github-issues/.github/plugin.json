@@ -1,0 +1,17 @@
+{
+  "name": "github-issues",
+  "description": "Create, triage, and manage GitHub issues with labels, milestones, and assignments",
+  "version": "1.0.0",
+  "author": {
+    "name": "two4suited",
+    "email": "brian.sheridan@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["github", "issues", "triage", "project-management"],
+  "agents": [
+    "./agents/issue-manager.agent.md"
+  ],
+  "skills": [
+    "./skills/github-issues/"
+  ]
+}

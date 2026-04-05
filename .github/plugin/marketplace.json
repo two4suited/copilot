@@ -14,6 +14,12 @@
       "description": "Markdown-native task manager and Kanban visualizer for Git repos with MCP integration for AI agents",
       "version": "1.44.0",
       "source": "./plugins/backlog-md"
+    },
+    {
+      "name": "github-issues",
+      "description": "Create, triage, and manage GitHub issues with labels, milestones, and assignments",
+      "version": "1.0.0",
+      "source": "./plugins/github-issues"
     }
   ]
 }
